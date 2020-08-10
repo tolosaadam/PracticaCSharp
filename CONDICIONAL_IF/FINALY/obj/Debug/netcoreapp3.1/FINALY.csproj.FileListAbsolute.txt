@@ -1,0 +1,13 @@
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\FINALY\bin\Debug\netcoreapp3.1\FINALY.exe
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\FINALY\bin\Debug\netcoreapp3.1\FINALY.deps.json
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\FINALY\bin\Debug\netcoreapp3.1\FINALY.runtimeconfig.json
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\FINALY\bin\Debug\netcoreapp3.1\FINALY.runtimeconfig.dev.json
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\FINALY\bin\Debug\netcoreapp3.1\FINALY.dll
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\FINALY\bin\Debug\netcoreapp3.1\FINALY.pdb
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\FINALY\obj\Debug\netcoreapp3.1\FINALY.csprojAssemblyReference.cache
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\FINALY\obj\Debug\netcoreapp3.1\FINALY.AssemblyInfoInputs.cache
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\FINALY\obj\Debug\netcoreapp3.1\FINALY.AssemblyInfo.cs
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\FINALY\obj\Debug\netcoreapp3.1\FINALY.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\FINALY\obj\Debug\netcoreapp3.1\FINALY.dll
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\FINALY\obj\Debug\netcoreapp3.1\FINALY.pdb
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\FINALY\obj\Debug\netcoreapp3.1\FINALY.genruntimeconfig.cache

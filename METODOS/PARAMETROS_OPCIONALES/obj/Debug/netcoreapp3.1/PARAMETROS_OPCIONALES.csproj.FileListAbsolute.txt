@@ -1,0 +1,13 @@
+C:\Users\Notebook\source\repos\METODOS\PARAMETROS_OPCIONALES\bin\Debug\netcoreapp3.1\PARAMETROS_OPCIONALES.exe
+C:\Users\Notebook\source\repos\METODOS\PARAMETROS_OPCIONALES\bin\Debug\netcoreapp3.1\PARAMETROS_OPCIONALES.deps.json
+C:\Users\Notebook\source\repos\METODOS\PARAMETROS_OPCIONALES\bin\Debug\netcoreapp3.1\PARAMETROS_OPCIONALES.runtimeconfig.json
+C:\Users\Notebook\source\repos\METODOS\PARAMETROS_OPCIONALES\bin\Debug\netcoreapp3.1\PARAMETROS_OPCIONALES.runtimeconfig.dev.json
+C:\Users\Notebook\source\repos\METODOS\PARAMETROS_OPCIONALES\bin\Debug\netcoreapp3.1\PARAMETROS_OPCIONALES.dll
+C:\Users\Notebook\source\repos\METODOS\PARAMETROS_OPCIONALES\bin\Debug\netcoreapp3.1\PARAMETROS_OPCIONALES.pdb
+C:\Users\Notebook\source\repos\METODOS\PARAMETROS_OPCIONALES\obj\Debug\netcoreapp3.1\PARAMETROS_OPCIONALES.csprojAssemblyReference.cache
+C:\Users\Notebook\source\repos\METODOS\PARAMETROS_OPCIONALES\obj\Debug\netcoreapp3.1\PARAMETROS_OPCIONALES.AssemblyInfoInputs.cache
+C:\Users\Notebook\source\repos\METODOS\PARAMETROS_OPCIONALES\obj\Debug\netcoreapp3.1\PARAMETROS_OPCIONALES.AssemblyInfo.cs
+C:\Users\Notebook\source\repos\METODOS\PARAMETROS_OPCIONALES\obj\Debug\netcoreapp3.1\PARAMETROS_OPCIONALES.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\METODOS\PARAMETROS_OPCIONALES\obj\Debug\netcoreapp3.1\PARAMETROS_OPCIONALES.dll
+C:\Users\Notebook\source\repos\METODOS\PARAMETROS_OPCIONALES\obj\Debug\netcoreapp3.1\PARAMETROS_OPCIONALES.pdb
+C:\Users\Notebook\source\repos\METODOS\PARAMETROS_OPCIONALES\obj\Debug\netcoreapp3.1\PARAMETROS_OPCIONALES.genruntimeconfig.cache

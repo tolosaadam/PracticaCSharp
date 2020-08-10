@@ -1,0 +1,13 @@
+C:\Users\Notebook\source\repos\METODOS\METODOS_alcance_sobrecaga\bin\Debug\netcoreapp3.1\METODOS_alcance_sobrecaga.exe
+C:\Users\Notebook\source\repos\METODOS\METODOS_alcance_sobrecaga\bin\Debug\netcoreapp3.1\METODOS_alcance_sobrecaga.deps.json
+C:\Users\Notebook\source\repos\METODOS\METODOS_alcance_sobrecaga\bin\Debug\netcoreapp3.1\METODOS_alcance_sobrecaga.runtimeconfig.json
+C:\Users\Notebook\source\repos\METODOS\METODOS_alcance_sobrecaga\bin\Debug\netcoreapp3.1\METODOS_alcance_sobrecaga.runtimeconfig.dev.json
+C:\Users\Notebook\source\repos\METODOS\METODOS_alcance_sobrecaga\bin\Debug\netcoreapp3.1\METODOS_alcance_sobrecaga.dll
+C:\Users\Notebook\source\repos\METODOS\METODOS_alcance_sobrecaga\bin\Debug\netcoreapp3.1\METODOS_alcance_sobrecaga.pdb
+C:\Users\Notebook\source\repos\METODOS\METODOS_alcance_sobrecaga\obj\Debug\netcoreapp3.1\METODOS_alcance_sobrecaga.csprojAssemblyReference.cache
+C:\Users\Notebook\source\repos\METODOS\METODOS_alcance_sobrecaga\obj\Debug\netcoreapp3.1\METODOS_alcance_sobrecaga.AssemblyInfoInputs.cache
+C:\Users\Notebook\source\repos\METODOS\METODOS_alcance_sobrecaga\obj\Debug\netcoreapp3.1\METODOS_alcance_sobrecaga.AssemblyInfo.cs
+C:\Users\Notebook\source\repos\METODOS\METODOS_alcance_sobrecaga\obj\Debug\netcoreapp3.1\METODOS_alcance_sobrecaga.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\METODOS\METODOS_alcance_sobrecaga\obj\Debug\netcoreapp3.1\METODOS_alcance_sobrecaga.dll
+C:\Users\Notebook\source\repos\METODOS\METODOS_alcance_sobrecaga\obj\Debug\netcoreapp3.1\METODOS_alcance_sobrecaga.pdb
+C:\Users\Notebook\source\repos\METODOS\METODOS_alcance_sobrecaga\obj\Debug\netcoreapp3.1\METODOS_alcance_sobrecaga.genruntimeconfig.cache

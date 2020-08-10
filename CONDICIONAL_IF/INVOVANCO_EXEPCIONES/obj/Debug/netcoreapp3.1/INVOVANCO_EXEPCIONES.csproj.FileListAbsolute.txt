@@ -1,0 +1,13 @@
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\INVOVANCO_EXEPCIONES\bin\Debug\netcoreapp3.1\INVOVANCO_EXEPCIONES.exe
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\INVOVANCO_EXEPCIONES\bin\Debug\netcoreapp3.1\INVOVANCO_EXEPCIONES.deps.json
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\INVOVANCO_EXEPCIONES\bin\Debug\netcoreapp3.1\INVOVANCO_EXEPCIONES.runtimeconfig.json
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\INVOVANCO_EXEPCIONES\bin\Debug\netcoreapp3.1\INVOVANCO_EXEPCIONES.runtimeconfig.dev.json
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\INVOVANCO_EXEPCIONES\bin\Debug\netcoreapp3.1\INVOVANCO_EXEPCIONES.dll
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\INVOVANCO_EXEPCIONES\bin\Debug\netcoreapp3.1\INVOVANCO_EXEPCIONES.pdb
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\INVOVANCO_EXEPCIONES\obj\Debug\netcoreapp3.1\INVOVANCO_EXEPCIONES.csprojAssemblyReference.cache
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\INVOVANCO_EXEPCIONES\obj\Debug\netcoreapp3.1\INVOVANCO_EXEPCIONES.AssemblyInfoInputs.cache
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\INVOVANCO_EXEPCIONES\obj\Debug\netcoreapp3.1\INVOVANCO_EXEPCIONES.AssemblyInfo.cs
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\INVOVANCO_EXEPCIONES\obj\Debug\netcoreapp3.1\INVOVANCO_EXEPCIONES.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\INVOVANCO_EXEPCIONES\obj\Debug\netcoreapp3.1\INVOVANCO_EXEPCIONES.dll
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\INVOVANCO_EXEPCIONES\obj\Debug\netcoreapp3.1\INVOVANCO_EXEPCIONES.pdb
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\INVOVANCO_EXEPCIONES\obj\Debug\netcoreapp3.1\INVOVANCO_EXEPCIONES.genruntimeconfig.cache

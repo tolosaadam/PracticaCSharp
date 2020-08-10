@@ -1,0 +1,12 @@
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\CHE\bin\Debug\netcoreapp3.1\CHE.exe
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\CHE\bin\Debug\netcoreapp3.1\CHE.deps.json
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\CHE\bin\Debug\netcoreapp3.1\CHE.runtimeconfig.json
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\CHE\bin\Debug\netcoreapp3.1\CHE.runtimeconfig.dev.json
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\CHE\bin\Debug\netcoreapp3.1\CHE.dll
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\CHE\bin\Debug\netcoreapp3.1\CHE.pdb
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\CHE\obj\Debug\netcoreapp3.1\CHE.AssemblyInfoInputs.cache
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\CHE\obj\Debug\netcoreapp3.1\CHE.AssemblyInfo.cs
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\CHE\obj\Debug\netcoreapp3.1\CHE.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\CHE\obj\Debug\netcoreapp3.1\CHE.dll
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\CHE\obj\Debug\netcoreapp3.1\CHE.pdb
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\CHE\obj\Debug\netcoreapp3.1\CHE.genruntimeconfig.cache

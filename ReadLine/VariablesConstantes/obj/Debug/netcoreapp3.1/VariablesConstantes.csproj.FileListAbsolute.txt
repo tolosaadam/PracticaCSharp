@@ -1,0 +1,12 @@
+C:\Users\Notebook\source\repos\ReadLine\VariablesConstantes\bin\Debug\netcoreapp3.1\VariablesConstantes.exe
+C:\Users\Notebook\source\repos\ReadLine\VariablesConstantes\bin\Debug\netcoreapp3.1\VariablesConstantes.deps.json
+C:\Users\Notebook\source\repos\ReadLine\VariablesConstantes\bin\Debug\netcoreapp3.1\VariablesConstantes.runtimeconfig.json
+C:\Users\Notebook\source\repos\ReadLine\VariablesConstantes\bin\Debug\netcoreapp3.1\VariablesConstantes.runtimeconfig.dev.json
+C:\Users\Notebook\source\repos\ReadLine\VariablesConstantes\bin\Debug\netcoreapp3.1\VariablesConstantes.dll
+C:\Users\Notebook\source\repos\ReadLine\VariablesConstantes\bin\Debug\netcoreapp3.1\VariablesConstantes.pdb
+C:\Users\Notebook\source\repos\ReadLine\VariablesConstantes\obj\Debug\netcoreapp3.1\VariablesConstantes.AssemblyInfoInputs.cache
+C:\Users\Notebook\source\repos\ReadLine\VariablesConstantes\obj\Debug\netcoreapp3.1\VariablesConstantes.AssemblyInfo.cs
+C:\Users\Notebook\source\repos\ReadLine\VariablesConstantes\obj\Debug\netcoreapp3.1\VariablesConstantes.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\ReadLine\VariablesConstantes\obj\Debug\netcoreapp3.1\VariablesConstantes.dll
+C:\Users\Notebook\source\repos\ReadLine\VariablesConstantes\obj\Debug\netcoreapp3.1\VariablesConstantes.pdb
+C:\Users\Notebook\source\repos\ReadLine\VariablesConstantes\obj\Debug\netcoreapp3.1\VariablesConstantes.genruntimeconfig.cache

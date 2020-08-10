@@ -1,0 +1,13 @@
+C:\Users\Notebook\source\repos\POO\Ejercicio_aberturas\bin\Debug\netcoreapp3.1\Ejercicio_aberturas.exe
+C:\Users\Notebook\source\repos\POO\Ejercicio_aberturas\bin\Debug\netcoreapp3.1\Ejercicio_aberturas.deps.json
+C:\Users\Notebook\source\repos\POO\Ejercicio_aberturas\bin\Debug\netcoreapp3.1\Ejercicio_aberturas.runtimeconfig.json
+C:\Users\Notebook\source\repos\POO\Ejercicio_aberturas\bin\Debug\netcoreapp3.1\Ejercicio_aberturas.runtimeconfig.dev.json
+C:\Users\Notebook\source\repos\POO\Ejercicio_aberturas\bin\Debug\netcoreapp3.1\Ejercicio_aberturas.dll
+C:\Users\Notebook\source\repos\POO\Ejercicio_aberturas\bin\Debug\netcoreapp3.1\Ejercicio_aberturas.pdb
+C:\Users\Notebook\source\repos\POO\Ejercicio_aberturas\obj\Debug\netcoreapp3.1\Ejercicio_aberturas.csprojAssemblyReference.cache
+C:\Users\Notebook\source\repos\POO\Ejercicio_aberturas\obj\Debug\netcoreapp3.1\Ejercicio_aberturas.AssemblyInfoInputs.cache
+C:\Users\Notebook\source\repos\POO\Ejercicio_aberturas\obj\Debug\netcoreapp3.1\Ejercicio_aberturas.AssemblyInfo.cs
+C:\Users\Notebook\source\repos\POO\Ejercicio_aberturas\obj\Debug\netcoreapp3.1\Ejercicio_aberturas.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\POO\Ejercicio_aberturas\obj\Debug\netcoreapp3.1\Ejercicio_aberturas.dll
+C:\Users\Notebook\source\repos\POO\Ejercicio_aberturas\obj\Debug\netcoreapp3.1\Ejercicio_aberturas.pdb
+C:\Users\Notebook\source\repos\POO\Ejercicio_aberturas\obj\Debug\netcoreapp3.1\Ejercicio_aberturas.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "METODOS_RETURN/1.0.0": {
+        "runtime": {
+          "METODOS_RETURN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "METODOS_RETURN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

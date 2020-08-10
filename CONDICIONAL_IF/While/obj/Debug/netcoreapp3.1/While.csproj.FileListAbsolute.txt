@@ -1,0 +1,13 @@
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\While\bin\Debug\netcoreapp3.1\While.exe
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\While\bin\Debug\netcoreapp3.1\While.deps.json
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.json
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.dev.json
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\While\bin\Debug\netcoreapp3.1\While.dll
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\While\bin\Debug\netcoreapp3.1\While.pdb
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\While\obj\Debug\netcoreapp3.1\While.csprojAssemblyReference.cache
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\While\obj\Debug\netcoreapp3.1\While.AssemblyInfoInputs.cache
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\While\obj\Debug\netcoreapp3.1\While.AssemblyInfo.cs
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\While\obj\Debug\netcoreapp3.1\While.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\While\obj\Debug\netcoreapp3.1\While.dll
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\While\obj\Debug\netcoreapp3.1\While.pdb
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\While\obj\Debug\netcoreapp3.1\While.genruntimeconfig.cache

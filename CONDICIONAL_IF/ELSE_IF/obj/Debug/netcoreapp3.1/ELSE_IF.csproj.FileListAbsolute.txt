@@ -1,0 +1,13 @@
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\ELSE_IF\bin\Debug\netcoreapp3.1\ELSE_IF.exe
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\ELSE_IF\bin\Debug\netcoreapp3.1\ELSE_IF.deps.json
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\ELSE_IF\bin\Debug\netcoreapp3.1\ELSE_IF.runtimeconfig.json
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\ELSE_IF\bin\Debug\netcoreapp3.1\ELSE_IF.runtimeconfig.dev.json
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\ELSE_IF\bin\Debug\netcoreapp3.1\ELSE_IF.dll
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\ELSE_IF\bin\Debug\netcoreapp3.1\ELSE_IF.pdb
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\ELSE_IF\obj\Debug\netcoreapp3.1\ELSE_IF.csprojAssemblyReference.cache
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\ELSE_IF\obj\Debug\netcoreapp3.1\ELSE_IF.AssemblyInfoInputs.cache
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\ELSE_IF\obj\Debug\netcoreapp3.1\ELSE_IF.AssemblyInfo.cs
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\ELSE_IF\obj\Debug\netcoreapp3.1\ELSE_IF.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\ELSE_IF\obj\Debug\netcoreapp3.1\ELSE_IF.dll
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\ELSE_IF\obj\Debug\netcoreapp3.1\ELSE_IF.pdb
+C:\Users\Notebook\source\repos\CONDICIONAL_IF\ELSE_IF\obj\Debug\netcoreapp3.1\ELSE_IF.genruntimeconfig.cache

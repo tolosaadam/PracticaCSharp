@@ -1,0 +1,13 @@
+C:\Users\Notebook\source\repos\POO\CONCEPTOS_PO\obj\Debug\netcoreapp3.1\CONCEPTOS_PO.csprojAssemblyReference.cache
+C:\Users\Notebook\source\repos\POO\CONCEPTOS_PO\obj\Debug\netcoreapp3.1\CONCEPTOS_PO.AssemblyInfoInputs.cache
+C:\Users\Notebook\source\repos\POO\CONCEPTOS_PO\obj\Debug\netcoreapp3.1\CONCEPTOS_PO.AssemblyInfo.cs
+C:\Users\Notebook\source\repos\POO\CONCEPTOS_PO\obj\Debug\netcoreapp3.1\CONCEPTOS_PO.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\POO\CONCEPTOS_PO\bin\Debug\netcoreapp3.1\CONCEPTOS_PO.exe
+C:\Users\Notebook\source\repos\POO\CONCEPTOS_PO\bin\Debug\netcoreapp3.1\CONCEPTOS_PO.deps.json
+C:\Users\Notebook\source\repos\POO\CONCEPTOS_PO\bin\Debug\netcoreapp3.1\CONCEPTOS_PO.runtimeconfig.json
+C:\Users\Notebook\source\repos\POO\CONCEPTOS_PO\bin\Debug\netcoreapp3.1\CONCEPTOS_PO.runtimeconfig.dev.json
+C:\Users\Notebook\source\repos\POO\CONCEPTOS_PO\bin\Debug\netcoreapp3.1\CONCEPTOS_PO.dll
+C:\Users\Notebook\source\repos\POO\CONCEPTOS_PO\bin\Debug\netcoreapp3.1\CONCEPTOS_PO.pdb
+C:\Users\Notebook\source\repos\POO\CONCEPTOS_PO\obj\Debug\netcoreapp3.1\CONCEPTOS_PO.dll
+C:\Users\Notebook\source\repos\POO\CONCEPTOS_PO\obj\Debug\netcoreapp3.1\CONCEPTOS_PO.pdb
+C:\Users\Notebook\source\repos\POO\CONCEPTOS_PO\obj\Debug\netcoreapp3.1\CONCEPTOS_PO.genruntimeconfig.cache

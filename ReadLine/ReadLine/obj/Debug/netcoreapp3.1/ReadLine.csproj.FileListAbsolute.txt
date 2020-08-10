@@ -1,0 +1,13 @@
+C:\Users\Notebook\source\repos\ReadLine\ReadLine\bin\Debug\netcoreapp3.1\ReadLine.exe
+C:\Users\Notebook\source\repos\ReadLine\ReadLine\bin\Debug\netcoreapp3.1\ReadLine.deps.json
+C:\Users\Notebook\source\repos\ReadLine\ReadLine\bin\Debug\netcoreapp3.1\ReadLine.runtimeconfig.json
+C:\Users\Notebook\source\repos\ReadLine\ReadLine\bin\Debug\netcoreapp3.1\ReadLine.runtimeconfig.dev.json
+C:\Users\Notebook\source\repos\ReadLine\ReadLine\bin\Debug\netcoreapp3.1\ReadLine.dll
+C:\Users\Notebook\source\repos\ReadLine\ReadLine\bin\Debug\netcoreapp3.1\ReadLine.pdb
+C:\Users\Notebook\source\repos\ReadLine\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.csprojAssemblyReference.cache
+C:\Users\Notebook\source\repos\ReadLine\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.AssemblyInfoInputs.cache
+C:\Users\Notebook\source\repos\ReadLine\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.AssemblyInfo.cs
+C:\Users\Notebook\source\repos\ReadLine\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\ReadLine\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.dll
+C:\Users\Notebook\source\repos\ReadLine\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.pdb
+C:\Users\Notebook\source\repos\ReadLine\ReadLine\obj\Debug\netcoreapp3.1\ReadLine.genruntimeconfig.cache

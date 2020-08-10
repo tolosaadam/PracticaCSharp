@@ -1,0 +1,13 @@
+C:\Users\Notebook\source\repos\METODOS\METODOS_RETURN\obj\Debug\netcoreapp3.1\METODOS_RETURN.csprojAssemblyReference.cache
+C:\Users\Notebook\source\repos\METODOS\METODOS_RETURN\obj\Debug\netcoreapp3.1\METODOS_RETURN.AssemblyInfoInputs.cache
+C:\Users\Notebook\source\repos\METODOS\METODOS_RETURN\obj\Debug\netcoreapp3.1\METODOS_RETURN.AssemblyInfo.cs
+C:\Users\Notebook\source\repos\METODOS\METODOS_RETURN\obj\Debug\netcoreapp3.1\METODOS_RETURN.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\METODOS\METODOS_RETURN\bin\Debug\netcoreapp3.1\METODOS_RETURN.exe
+C:\Users\Notebook\source\repos\METODOS\METODOS_RETURN\bin\Debug\netcoreapp3.1\METODOS_RETURN.deps.json
+C:\Users\Notebook\source\repos\METODOS\METODOS_RETURN\bin\Debug\netcoreapp3.1\METODOS_RETURN.runtimeconfig.json
+C:\Users\Notebook\source\repos\METODOS\METODOS_RETURN\bin\Debug\netcoreapp3.1\METODOS_RETURN.runtimeconfig.dev.json
+C:\Users\Notebook\source\repos\METODOS\METODOS_RETURN\bin\Debug\netcoreapp3.1\METODOS_RETURN.dll
+C:\Users\Notebook\source\repos\METODOS\METODOS_RETURN\bin\Debug\netcoreapp3.1\METODOS_RETURN.pdb
+C:\Users\Notebook\source\repos\METODOS\METODOS_RETURN\obj\Debug\netcoreapp3.1\METODOS_RETURN.dll
+C:\Users\Notebook\source\repos\METODOS\METODOS_RETURN\obj\Debug\netcoreapp3.1\METODOS_RETURN.pdb
+C:\Users\Notebook\source\repos\METODOS\METODOS_RETURN\obj\Debug\netcoreapp3.1\METODOS_RETURN.genruntimeconfig.cache
