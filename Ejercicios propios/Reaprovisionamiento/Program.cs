@@ -6,6 +6,7 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Runtime.ExceptionServices;
 using System.Threading;
+using System.Reflection.Metadata.Ecma335;
 
 namespace Reaprovisionamiento
 {
@@ -18,16 +19,21 @@ namespace Reaprovisionamiento
         static void Main(string[] args)
         {
 
-            var contacts = GetContactsFromFile();
+            var contacts = GetJson(_path);
             
-            calcularFecha(contacts);
-           
+            
+            var proximasCompras = calcularFecha(contacts);
+            foreach (var compra in proximasCompras)
+            {
+                Console.WriteLine($"La proxima compra para el producto: {compra.products.First().sku}: {compra.products.First().name}\n" +
+                        $"Sera el dia {compra.date} ");
+            }
 
         }
-        public static string GetContactsFromFile()
+        public static string GetJson(string camino)
         {
             string contacsFromFile;
-            using (var reader=new StreamReader(_path))
+            using (var reader=new StreamReader(camino))
             {
                 contacsFromFile = reader.ReadToEnd();
                 
@@ -45,9 +51,10 @@ namespace Reaprovisionamiento
                 
         }
 
-        public static void calcularFecha(string contacsFromFile)
+        public static List<Purchase> calcularFecha(string contacsFromFile)
         {
             var customers = GetCustomer(contacsFromFile);  // Lista de clientes con compras
+            var proximasCompras = new List<Purchase>();  // La lista de las proximas compras
 
             foreach (Customer customer in customers)  // Iterar cliente
             {
@@ -72,7 +79,6 @@ namespace Reaprovisionamiento
                 // Guardo en result los productos repetidos en sku pero con diferente number
                 
                 var ultimaCompra = result.GroupBy(x => x.sku);  // Agrupo productos por sku ordenados por fecha
-                var proximasCompras = new List<Purchase>();  // La lista de las proximas compras
                 foreach (var products in ultimaCompra)    // Comparar entre sku agrupados
                 {
                     var ultimo = products.Last();
@@ -102,21 +108,11 @@ namespace Reaprovisionamiento
                         });
                     }
                 }
-
-                foreach (var r in proximasCompras)   
-                {
-                    Console.WriteLine($"La proxima compra para el producto: {r.products.First().sku}: {r.products.First().name}\n" +
-                        $"Sera el dia {r.date} ");
-                }
-
-
             }
 
-
+            return proximasCompras;
         }
-
-
-
+       
     }
 
     public class Products2

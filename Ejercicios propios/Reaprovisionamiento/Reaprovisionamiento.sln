@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reaprovisionamiento", "Reaprovisionamiento.csproj", "{ADECFF82-0994-4B05-B6B0-C390BFABDF17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Reaprovisionamiento1", "..\Test_Reaprovisionamiento1\Test_Reaprovisionamiento1.csproj", "{CF88B950-0D9B-46CD-A145-1B778C64BE43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADECFF82-0994-4B05-B6B0-C390BFABDF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADECFF82-0994-4B05-B6B0-C390BFABDF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADECFF82-0994-4B05-B6B0-C390BFABDF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADECFF82-0994-4B05-B6B0-C390BFABDF17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF88B950-0D9B-46CD-A145-1B778C64BE43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF88B950-0D9B-46CD-A145-1B778C64BE43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF88B950-0D9B-46CD-A145-1B778C64BE43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF88B950-0D9B-46CD-A145-1B778C64BE43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA2F3482-6B4A-4A64-85A4-08020940E0D0}
+	EndGlobalSection
+EndGlobal
