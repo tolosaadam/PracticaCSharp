@@ -1,0 +1,13 @@
+C:\Users\Adam\source\repos\AvisosDiarios\AvisosDiarios\bin\Debug\netcoreapp3.1\AvisosDiarios.exe
+C:\Users\Adam\source\repos\AvisosDiarios\AvisosDiarios\bin\Debug\netcoreapp3.1\AvisosDiarios.deps.json
+C:\Users\Adam\source\repos\AvisosDiarios\AvisosDiarios\bin\Debug\netcoreapp3.1\AvisosDiarios.runtimeconfig.json
+C:\Users\Adam\source\repos\AvisosDiarios\AvisosDiarios\bin\Debug\netcoreapp3.1\AvisosDiarios.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\AvisosDiarios\AvisosDiarios\bin\Debug\netcoreapp3.1\AvisosDiarios.dll
+C:\Users\Adam\source\repos\AvisosDiarios\AvisosDiarios\bin\Debug\netcoreapp3.1\AvisosDiarios.pdb
+C:\Users\Adam\source\repos\AvisosDiarios\AvisosDiarios\obj\Debug\netcoreapp3.1\AvisosDiarios.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\AvisosDiarios\AvisosDiarios\obj\Debug\netcoreapp3.1\AvisosDiarios.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\AvisosDiarios\AvisosDiarios\obj\Debug\netcoreapp3.1\AvisosDiarios.AssemblyInfo.cs
+C:\Users\Adam\source\repos\AvisosDiarios\AvisosDiarios\obj\Debug\netcoreapp3.1\AvisosDiarios.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\AvisosDiarios\AvisosDiarios\obj\Debug\netcoreapp3.1\AvisosDiarios.dll
+C:\Users\Adam\source\repos\AvisosDiarios\AvisosDiarios\obj\Debug\netcoreapp3.1\AvisosDiarios.pdb
+C:\Users\Adam\source\repos\AvisosDiarios\AvisosDiarios\obj\Debug\netcoreapp3.1\AvisosDiarios.genruntimeconfig.cache

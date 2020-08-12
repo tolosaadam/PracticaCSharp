@@ -1,0 +1,13 @@
+C:\Users\Adam\source\repos\PracticaCSharp\POO\EjercicioHerencia\bin\Debug\netcoreapp3.1\EjercicioHerencia.exe
+C:\Users\Adam\source\repos\PracticaCSharp\POO\EjercicioHerencia\bin\Debug\netcoreapp3.1\EjercicioHerencia.deps.json
+C:\Users\Adam\source\repos\PracticaCSharp\POO\EjercicioHerencia\bin\Debug\netcoreapp3.1\EjercicioHerencia.runtimeconfig.json
+C:\Users\Adam\source\repos\PracticaCSharp\POO\EjercicioHerencia\bin\Debug\netcoreapp3.1\EjercicioHerencia.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\PracticaCSharp\POO\EjercicioHerencia\bin\Debug\netcoreapp3.1\EjercicioHerencia.dll
+C:\Users\Adam\source\repos\PracticaCSharp\POO\EjercicioHerencia\bin\Debug\netcoreapp3.1\EjercicioHerencia.pdb
+C:\Users\Adam\source\repos\PracticaCSharp\POO\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\PracticaCSharp\POO\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\PracticaCSharp\POO\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.AssemblyInfo.cs
+C:\Users\Adam\source\repos\PracticaCSharp\POO\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\PracticaCSharp\POO\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.dll
+C:\Users\Adam\source\repos\PracticaCSharp\POO\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.pdb
+C:\Users\Adam\source\repos\PracticaCSharp\POO\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.genruntimeconfig.cache

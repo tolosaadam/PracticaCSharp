@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adam\\source\\repos\\POO\\HERENCIAS\\HERENCIAS.csproj",
+      "projectUniqueName": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\POO\\HERENCIAS\\HERENCIAS.csproj",
       "projectName": "HERENCIAS",
-      "projectPath": "C:\\Users\\Adam\\source\\repos\\POO\\HERENCIAS\\HERENCIAS.csproj",
+      "projectPath": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\POO\\HERENCIAS\\HERENCIAS.csproj",
       "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adam\\source\\repos\\POO\\HERENCIAS\\obj\\",
+      "outputPath": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\POO\\HERENCIAS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adam\\AppData\\Roaming\\NuGet\\NuGet.Config",

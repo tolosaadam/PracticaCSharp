@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adam\\source\\repos\\CONDICIONAL_IF\\While\\While.csproj",
+      "projectUniqueName": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\CONDICIONAL_IF\\While\\While.csproj",
       "projectName": "While",
-      "projectPath": "C:\\Users\\Adam\\source\\repos\\CONDICIONAL_IF\\While\\While.csproj",
+      "projectPath": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\CONDICIONAL_IF\\While\\While.csproj",
       "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adam\\source\\repos\\CONDICIONAL_IF\\While\\obj\\",
+      "outputPath": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\CONDICIONAL_IF\\While\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adam\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adam\\source\\repos\\EXEPCIONES\\EXEPCIONES\\EXEPCIONES.csproj": {}
+    "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\EXEPCIONES\\EXEPCIONES\\EXEPCIONES.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adam\\source\\repos\\EXEPCIONES\\EXEPCIONES\\EXEPCIONES.csproj": {
+    "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\EXEPCIONES\\EXEPCIONES\\EXEPCIONES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adam\\source\\repos\\EXEPCIONES\\EXEPCIONES\\EXEPCIONES.csproj",
+        "projectUniqueName": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\EXEPCIONES\\EXEPCIONES\\EXEPCIONES.csproj",
         "projectName": "EXEPCIONES",
-        "projectPath": "C:\\Users\\Adam\\source\\repos\\EXEPCIONES\\EXEPCIONES\\EXEPCIONES.csproj",
+        "projectPath": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\EXEPCIONES\\EXEPCIONES\\EXEPCIONES.csproj",
         "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adam\\source\\repos\\EXEPCIONES\\EXEPCIONES\\obj\\",
+        "outputPath": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\EXEPCIONES\\EXEPCIONES\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adam\\AppData\\Roaming\\NuGet\\NuGet.Config",

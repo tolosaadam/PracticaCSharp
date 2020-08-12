@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Crohy4VKgY75MOoGafxplFo3EgWgKitgWoWas0Uu5ZroMXaJltUUOoHarI/aVdiTSoEAbRGwtZh6RZpqfuF0gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\Grafos y nodos\\Reaprovisionamiento\\Reaprovisionamiento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adam\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

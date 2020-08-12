@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adam\\source\\repos\\CONDICIONAL_IF\\INVOVANCO_EXEPCIONES\\INVOVANCO_EXEPCIONES.csproj": {}
+    "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\CONDICIONAL_IF\\INVOVANCO_EXEPCIONES\\INVOVANCO_EXEPCIONES.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adam\\source\\repos\\CONDICIONAL_IF\\INVOVANCO_EXEPCIONES\\INVOVANCO_EXEPCIONES.csproj": {
+    "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\CONDICIONAL_IF\\INVOVANCO_EXEPCIONES\\INVOVANCO_EXEPCIONES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adam\\source\\repos\\CONDICIONAL_IF\\INVOVANCO_EXEPCIONES\\INVOVANCO_EXEPCIONES.csproj",
+        "projectUniqueName": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\CONDICIONAL_IF\\INVOVANCO_EXEPCIONES\\INVOVANCO_EXEPCIONES.csproj",
         "projectName": "INVOVANCO_EXEPCIONES",
-        "projectPath": "C:\\Users\\Adam\\source\\repos\\CONDICIONAL_IF\\INVOVANCO_EXEPCIONES\\INVOVANCO_EXEPCIONES.csproj",
+        "projectPath": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\CONDICIONAL_IF\\INVOVANCO_EXEPCIONES\\INVOVANCO_EXEPCIONES.csproj",
         "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adam\\source\\repos\\CONDICIONAL_IF\\INVOVANCO_EXEPCIONES\\obj\\",
+        "outputPath": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\CONDICIONAL_IF\\INVOVANCO_EXEPCIONES\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adam\\AppData\\Roaming\\NuGet\\NuGet.Config",
