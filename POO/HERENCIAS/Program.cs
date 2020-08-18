@@ -101,6 +101,18 @@ namespace HERENCIAS
             Console.WriteLine("El numero de con el que salta el caballo2 es: " + Imicaballo2.numeroPatas()); //Usando la otra interfaz
 
 
+            // CLASES ABSTRACTAS
+            // LAS CLASES ABSTRACTAS SON SIMIALRES A LAS INTERFACES, PERO PUEDO DESARROLLAR SUS METODOS
+            Console.WriteLine("USANDO CLASES ABSTRACTAS");
+            
+            Lagartija lagartija1 = new Lagartija("Juanchito");
+            lagartija1.respirar();
+            lagartija1.getNombre();
+            Humano humano5 = new Humano("Javi enanioide");
+            humano5.respirar();
+            humano5.getNombre();
+            humano5.pensar();
+
 
 
             
@@ -141,7 +153,16 @@ interface IAnimalYSaltoConPatas
     }
     
     
-    class Mamiferos
+    abstract class Animales
+    {
+        public void respirar() 
+        {
+            Console.WriteLine("Soy capaz de respirar");
+        }
+        public abstract void getNombre(); /* Siempre que en una clase tenes un metodo abstracto obligas a la clase a ser abstracta
+                                           * se declara como en las interfaces */
+    }
+    class Mamiferos : Animales
     {
         public Mamiferos(String nombre)       // Construtor de la clase madre
         {
@@ -149,7 +170,7 @@ interface IAnimalYSaltoConPatas
 
 
         }
-        protected void respirar()   /* CON "PROTECTED" solo sera accesible al metodo dentro de las clases Mamifero y sus herencias
+        protected void respirarEjemplo()   /* CON "PROTECTED" solo sera accesible al metodo dentro de las clases Mamifero y sus herencias
                                      *(no puedo usarlo desde la clase principal "Program" por ejemplo */
         {
             Console.WriteLine($"Soy capaz de respirar soy {nombreSerVivo}");
@@ -169,9 +190,10 @@ interface IAnimalYSaltoConPatas
         }
         
        
-        public void getNombre()     // Metodo getter de string, las sub clases heredan los metodos
+        public override void getNombre()     /* Metodo getter de string, las sub clases heredan los metodos
+                                              * uso "override" para sobreescribir el metodo abstracto "getNombre()" */
         {
-            Console.WriteLine($"El nombre del ser vivo es: {nombreSerVivo}");
+            Console.WriteLine($"El nombre del mamifero es: {nombreSerVivo}");
         }
         private String nombreSerVivo { get; set; }   // CAMPO DE CLASE ENCAPSULADA "private"
     }
@@ -212,11 +234,11 @@ interface IAnimalYSaltoConPatas
     
     class Humano : Mamiferos , IMamiferosTerrestres , IAnimalesYDeportes
     {
-        public Humano(String nombreHumano) : base(nombreHumano)
+        public Humano(String nombreHumano) : base(nombreHumano)   //Constructor de clase heredada
         {
 
         }
-        public void pensar()   /* Polimorfismo, al tener el mismo nombre de metodo, que el de mamifero,
+        public   void pensar()   /* Polimorfismo, al tener el mismo nombre de metodo, que el de mamifero,
                                 * cuando uso el metodo con un humano, se reemplaza el metodo definido en mamiferos
                                 * y se usa el metodo definido en humanos, (VER LINEA 71) */
         {
@@ -254,12 +276,14 @@ interface IAnimalYSaltoConPatas
         }
         public void trepar()
         {
-            Console.WriteLine("Soy capaz de pensar");
+            Console.WriteLine("Soy capaz de trepar");
         }
         public int numeroPatas()
         {
             return 2;
         }
+        
+        
     }
 
     //INTERFACES
@@ -274,5 +298,19 @@ interface IAnimalYSaltoConPatas
         {
             Console.WriteLine("Soy una ballenita y estoy nadando");
         }
+    }
+    
+    class Lagartija : Animales
+    {
+        public Lagartija(String nombre)
+        {
+            nombreReptil = nombre;
+        }
+        public override void getNombre()     
+                                              
+        {
+            Console.WriteLine($"El nombre de la lagartija  es: {nombreReptil}");
+        }
+        private String nombreReptil;
     }
 }

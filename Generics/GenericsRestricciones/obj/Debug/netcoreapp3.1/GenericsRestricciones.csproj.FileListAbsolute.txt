@@ -1,0 +1,13 @@
+C:\Users\Adam\source\repos\Generics\GenericsRestricciones\bin\Debug\netcoreapp3.1\GenericsRestricciones.exe
+C:\Users\Adam\source\repos\Generics\GenericsRestricciones\bin\Debug\netcoreapp3.1\GenericsRestricciones.deps.json
+C:\Users\Adam\source\repos\Generics\GenericsRestricciones\bin\Debug\netcoreapp3.1\GenericsRestricciones.runtimeconfig.json
+C:\Users\Adam\source\repos\Generics\GenericsRestricciones\bin\Debug\netcoreapp3.1\GenericsRestricciones.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\Generics\GenericsRestricciones\bin\Debug\netcoreapp3.1\GenericsRestricciones.dll
+C:\Users\Adam\source\repos\Generics\GenericsRestricciones\bin\Debug\netcoreapp3.1\GenericsRestricciones.pdb
+C:\Users\Adam\source\repos\Generics\GenericsRestricciones\obj\Debug\netcoreapp3.1\GenericsRestricciones.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Generics\GenericsRestricciones\obj\Debug\netcoreapp3.1\GenericsRestricciones.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\Generics\GenericsRestricciones\obj\Debug\netcoreapp3.1\GenericsRestricciones.AssemblyInfo.cs
+C:\Users\Adam\source\repos\Generics\GenericsRestricciones\obj\Debug\netcoreapp3.1\GenericsRestricciones.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Generics\GenericsRestricciones\obj\Debug\netcoreapp3.1\GenericsRestricciones.dll
+C:\Users\Adam\source\repos\Generics\GenericsRestricciones\obj\Debug\netcoreapp3.1\GenericsRestricciones.pdb
+C:\Users\Adam\source\repos\Generics\GenericsRestricciones\obj\Debug\netcoreapp3.1\GenericsRestricciones.genruntimeconfig.cache

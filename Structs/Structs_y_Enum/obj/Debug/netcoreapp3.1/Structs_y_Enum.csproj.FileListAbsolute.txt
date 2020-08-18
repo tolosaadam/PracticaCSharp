@@ -1,0 +1,13 @@
+C:\Users\Adam\source\repos\Structs\Structs_y_Enum\bin\Debug\netcoreapp3.1\Structs_y_Enum.exe
+C:\Users\Adam\source\repos\Structs\Structs_y_Enum\bin\Debug\netcoreapp3.1\Structs_y_Enum.deps.json
+C:\Users\Adam\source\repos\Structs\Structs_y_Enum\bin\Debug\netcoreapp3.1\Structs_y_Enum.runtimeconfig.json
+C:\Users\Adam\source\repos\Structs\Structs_y_Enum\bin\Debug\netcoreapp3.1\Structs_y_Enum.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\Structs\Structs_y_Enum\bin\Debug\netcoreapp3.1\Structs_y_Enum.dll
+C:\Users\Adam\source\repos\Structs\Structs_y_Enum\bin\Debug\netcoreapp3.1\Structs_y_Enum.pdb
+C:\Users\Adam\source\repos\Structs\Structs_y_Enum\obj\Debug\netcoreapp3.1\Structs_y_Enum.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Structs\Structs_y_Enum\obj\Debug\netcoreapp3.1\Structs_y_Enum.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\Structs\Structs_y_Enum\obj\Debug\netcoreapp3.1\Structs_y_Enum.AssemblyInfo.cs
+C:\Users\Adam\source\repos\Structs\Structs_y_Enum\obj\Debug\netcoreapp3.1\Structs_y_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Structs\Structs_y_Enum\obj\Debug\netcoreapp3.1\Structs_y_Enum.dll
+C:\Users\Adam\source\repos\Structs\Structs_y_Enum\obj\Debug\netcoreapp3.1\Structs_y_Enum.pdb
+C:\Users\Adam\source\repos\Structs\Structs_y_Enum\obj\Debug\netcoreapp3.1\Structs_y_Enum.genruntimeconfig.cache

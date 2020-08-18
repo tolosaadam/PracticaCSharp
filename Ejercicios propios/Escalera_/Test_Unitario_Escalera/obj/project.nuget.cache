@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RCbDSP1BPbRteLbPar5zXLPBrUurjPWLgA+kkrtjbrVOvLgRUQNKapbb30SAk3fWPh9Pg5bx9oqpgQ2ceNHvEA==",
+  "dgSpecHash": "2e3Ki6+ARYFUvDyiTGnuK9BswG2A9ktbaAG3PpJKBrGzpg3Xzcw0dBiInRWXuA3ngmD64eEG4DexmqeyIM023Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\Grafos y nodos\\Test_Unitario_Escalera\\Test_Unitario.csproj",
+  "projectFilePath": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\Ejercicios propios\\Escalera_\\Test_Unitario_Escalera\\Test_Unitario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adam\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Adam\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

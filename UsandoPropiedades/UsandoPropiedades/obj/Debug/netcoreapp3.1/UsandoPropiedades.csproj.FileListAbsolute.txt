@@ -1,0 +1,13 @@
+C:\Users\Adam\source\repos\UsandoPropiedades\UsandoPropiedades\bin\Debug\netcoreapp3.1\UsandoPropiedades.exe
+C:\Users\Adam\source\repos\UsandoPropiedades\UsandoPropiedades\bin\Debug\netcoreapp3.1\UsandoPropiedades.deps.json
+C:\Users\Adam\source\repos\UsandoPropiedades\UsandoPropiedades\bin\Debug\netcoreapp3.1\UsandoPropiedades.runtimeconfig.json
+C:\Users\Adam\source\repos\UsandoPropiedades\UsandoPropiedades\bin\Debug\netcoreapp3.1\UsandoPropiedades.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\UsandoPropiedades\UsandoPropiedades\bin\Debug\netcoreapp3.1\UsandoPropiedades.dll
+C:\Users\Adam\source\repos\UsandoPropiedades\UsandoPropiedades\bin\Debug\netcoreapp3.1\UsandoPropiedades.pdb
+C:\Users\Adam\source\repos\UsandoPropiedades\UsandoPropiedades\obj\Debug\netcoreapp3.1\UsandoPropiedades.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\UsandoPropiedades\UsandoPropiedades\obj\Debug\netcoreapp3.1\UsandoPropiedades.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\UsandoPropiedades\UsandoPropiedades\obj\Debug\netcoreapp3.1\UsandoPropiedades.AssemblyInfo.cs
+C:\Users\Adam\source\repos\UsandoPropiedades\UsandoPropiedades\obj\Debug\netcoreapp3.1\UsandoPropiedades.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\UsandoPropiedades\UsandoPropiedades\obj\Debug\netcoreapp3.1\UsandoPropiedades.dll
+C:\Users\Adam\source\repos\UsandoPropiedades\UsandoPropiedades\obj\Debug\netcoreapp3.1\UsandoPropiedades.pdb
+C:\Users\Adam\source\repos\UsandoPropiedades\UsandoPropiedades\obj\Debug\netcoreapp3.1\UsandoPropiedades.genruntimeconfig.cache

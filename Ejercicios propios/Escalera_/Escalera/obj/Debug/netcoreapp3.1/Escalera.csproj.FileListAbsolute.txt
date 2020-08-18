@@ -24,3 +24,16 @@ C:\Users\Adam\source\repos\Grafos y nodos\Escalera\obj\Debug\netcoreapp3.1\Escal
 C:\Users\Adam\source\repos\Grafos y nodos\Escalera\obj\Debug\netcoreapp3.1\Escalera.dll
 C:\Users\Adam\source\repos\Grafos y nodos\Escalera\obj\Debug\netcoreapp3.1\Escalera.pdb
 C:\Users\Adam\source\repos\Grafos y nodos\Escalera\obj\Debug\netcoreapp3.1\Escalera.genruntimeconfig.cache
+C:\Users\Adam\source\repos\PracticaCSharp\Ejercicios propios\Escalera_\Escalera\bin\Debug\netcoreapp3.1\Escalera.exe
+C:\Users\Adam\source\repos\PracticaCSharp\Ejercicios propios\Escalera_\Escalera\bin\Debug\netcoreapp3.1\Escalera.deps.json
+C:\Users\Adam\source\repos\PracticaCSharp\Ejercicios propios\Escalera_\Escalera\bin\Debug\netcoreapp3.1\Escalera.runtimeconfig.json
+C:\Users\Adam\source\repos\PracticaCSharp\Ejercicios propios\Escalera_\Escalera\bin\Debug\netcoreapp3.1\Escalera.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\PracticaCSharp\Ejercicios propios\Escalera_\Escalera\bin\Debug\netcoreapp3.1\Escalera.dll
+C:\Users\Adam\source\repos\PracticaCSharp\Ejercicios propios\Escalera_\Escalera\bin\Debug\netcoreapp3.1\Escalera.pdb
+C:\Users\Adam\source\repos\PracticaCSharp\Ejercicios propios\Escalera_\Escalera\obj\Debug\netcoreapp3.1\Escalera.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\PracticaCSharp\Ejercicios propios\Escalera_\Escalera\obj\Debug\netcoreapp3.1\Escalera.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\PracticaCSharp\Ejercicios propios\Escalera_\Escalera\obj\Debug\netcoreapp3.1\Escalera.AssemblyInfo.cs
+C:\Users\Adam\source\repos\PracticaCSharp\Ejercicios propios\Escalera_\Escalera\obj\Debug\netcoreapp3.1\Escalera.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\PracticaCSharp\Ejercicios propios\Escalera_\Escalera\obj\Debug\netcoreapp3.1\Escalera.dll
+C:\Users\Adam\source\repos\PracticaCSharp\Ejercicios propios\Escalera_\Escalera\obj\Debug\netcoreapp3.1\Escalera.pdb
+C:\Users\Adam\source\repos\PracticaCSharp\Ejercicios propios\Escalera_\Escalera\obj\Debug\netcoreapp3.1\Escalera.genruntimeconfig.cache

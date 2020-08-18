@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\Grafos y nodos\\Escalera\\Escalera.csproj": {}
+    "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\Ejercicios propios\\Escalera_\\Escalera\\Escalera.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\Grafos y nodos\\Escalera\\Escalera.csproj": {
+    "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\Ejercicios propios\\Escalera_\\Escalera\\Escalera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\Grafos y nodos\\Escalera\\Escalera.csproj",
+        "projectUniqueName": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\Ejercicios propios\\Escalera_\\Escalera\\Escalera.csproj",
         "projectName": "Escalera",
-        "projectPath": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\Grafos y nodos\\Escalera\\Escalera.csproj",
+        "projectPath": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\Ejercicios propios\\Escalera_\\Escalera\\Escalera.csproj",
         "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\Grafos y nodos\\Escalera\\obj\\",
+        "outputPath": "C:\\Users\\Adam\\source\\repos\\PracticaCSharp\\Ejercicios propios\\Escalera_\\Escalera\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adam\\AppData\\Roaming\\NuGet\\NuGet.Config",
