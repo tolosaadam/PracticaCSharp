@@ -1,0 +1,13 @@
+C:\Users\Adam\source\repos\Colecciones\Collections_LinkedList\bin\Debug\netcoreapp3.1\Collections_LinkedList.exe
+C:\Users\Adam\source\repos\Colecciones\Collections_LinkedList\bin\Debug\netcoreapp3.1\Collections_LinkedList.deps.json
+C:\Users\Adam\source\repos\Colecciones\Collections_LinkedList\bin\Debug\netcoreapp3.1\Collections_LinkedList.runtimeconfig.json
+C:\Users\Adam\source\repos\Colecciones\Collections_LinkedList\bin\Debug\netcoreapp3.1\Collections_LinkedList.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\Colecciones\Collections_LinkedList\bin\Debug\netcoreapp3.1\Collections_LinkedList.dll
+C:\Users\Adam\source\repos\Colecciones\Collections_LinkedList\bin\Debug\netcoreapp3.1\Collections_LinkedList.pdb
+C:\Users\Adam\source\repos\Colecciones\Collections_LinkedList\obj\Debug\netcoreapp3.1\Collections_LinkedList.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Colecciones\Collections_LinkedList\obj\Debug\netcoreapp3.1\Collections_LinkedList.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\Colecciones\Collections_LinkedList\obj\Debug\netcoreapp3.1\Collections_LinkedList.AssemblyInfo.cs
+C:\Users\Adam\source\repos\Colecciones\Collections_LinkedList\obj\Debug\netcoreapp3.1\Collections_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Colecciones\Collections_LinkedList\obj\Debug\netcoreapp3.1\Collections_LinkedList.dll
+C:\Users\Adam\source\repos\Colecciones\Collections_LinkedList\obj\Debug\netcoreapp3.1\Collections_LinkedList.pdb
+C:\Users\Adam\source\repos\Colecciones\Collections_LinkedList\obj\Debug\netcoreapp3.1\Collections_LinkedList.genruntimeconfig.cache
