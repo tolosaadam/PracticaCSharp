@@ -11,10 +11,9 @@ namespace Ejercicio_aberturas
         {
 
 
-            Puerta puerta1 = new Puerta(1, "aluminio", "medio vidrio", 80, 200);
-            Console.WriteLine(puerta1.getInfoPuerta());
+           
             List<Puerta> arrayPuertas = new List<Puerta>();
-            arrayPuertas.Add(puerta1);
+          
             
             
             
@@ -26,18 +25,12 @@ namespace Ejercicio_aberturas
                                                                        * de objetos de tipo "FABRICA", CUANDO SOLO QUERIA
                                                                        * HACER OTRO ARRAY DIFERENTE DE OBJETOS DE TIPO "PUERTA"
                                                                        * */
-            arrayPuertasFabrica.Add(puerta1);
+          
 
             
             
             Fabrica fabrica1 = new Fabrica("LDO", 15);
-            Console.WriteLine(fabrica1.contadorPuertas(arrayPuertas));
-            Console.WriteLine(fabrica1.getInfoFabrica());
-
-
-           
-            Console.WriteLine(fabrica1.contadorPuertas(arrayPuertas));
-            Console.WriteLine(fabrica1.getInfoFabrica());
+            
 
             
 
@@ -94,18 +87,19 @@ namespace Ejercicio_aberturas
                     double ancho = double.Parse(Console.ReadLine());
                     Console.WriteLine("largo");
                     double largo = double.Parse(Console.ReadLine());
-                    
-                  
-                    if (fabrica1.verificarId(id, arrayPuertas)) 
+
+
+                    if (fabrica1.verificarId(id, arrayPuertas))
+                    {
+
+                        Console.WriteLine("La puerta ya existe");
+                    }
+                    else
                     {
                         fabrica1.construirPuerta(new Puerta(id, material, modelo, ancho, largo), arrayPuertas);
                         Console.WriteLine("La puerta se fabrico  correctamente");
                     }
-                    else
-                    {
-                        Console.WriteLine("La puerta ya existe");
-                    }
-          
+
 
 
 
@@ -114,53 +108,65 @@ namespace Ejercicio_aberturas
                 {
                     double id = 0;
                     Console.WriteLine("Selecciona el id de la puerta que quiera vender");
-                    try 
+                    try
                     {
                         double id2 = double.Parse(Console.ReadLine());
                         id = id2;
 
                         if (fabrica1.verificarId(id, arrayPuertas))
                         {
-                            Console.WriteLine("La puerta que quiere vender no se encuentra en el stock");
-                        }
-                        else
-                        {
 
                             fabrica1.venderPuerta(id, arrayPuertas);
                             Console.WriteLine("La puerta se vendio correctamente");
                         }
-                    }    
-                    catch(Exception ex)
+                        else
+                        {
+                            Console.WriteLine("La puerta que quiere vender no se encuentra en el stock");
+
+                        }
+                    }
+                    catch (Exception ex)
                     {
-                        Console.WriteLine("El numero de id debe ser numerico" );
+                        Console.WriteLine("El numero de id debe ser numerico");
 
                     }
-                    
+
 
                 }
                 else if (opcion == 3)
                 {
                     Console.WriteLine("Selecciona el id de la puerta que quiera saber las caracteristicas");
-                    double id = double.Parse(Console.ReadLine());
-                    if (fabrica1.verificarId(id, arrayPuertas))
+                    try
                     {
-                        Console.WriteLine("La puerta que quiere saber las caracteristica no se encuentra en stock");
-                    }
-                    else
-                    {
-                        foreach (Puerta x in arrayPuertas)
+                        double id = double.Parse(Console.ReadLine());
+                        if (fabrica1.verificarId(id, arrayPuertas))
                         {
-                            if (id == x.id)
+                            foreach (Puerta x in arrayPuertas)
                             {
-                                Console.WriteLine(x.getInfoPuerta());
+                                if (id == x.id)
+                                {
+                                    Console.WriteLine(x.getInfoPuerta());
+
+                                }
 
                             }
 
+
+
                         }
+                        else
+                        {
+                            Console.WriteLine("La puerta que quiere saber las caracteristica no se encuentra en stock");
 
-                    }   
-
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine("El numero de id debe ser numerico");
+                    }
+                    
                 }
+
                 else if (opcion == 4)
                 {
                     foreach(Puerta x in arrayPuertas)
@@ -174,7 +180,7 @@ namespace Ejercicio_aberturas
                 }
                 else if (opcion == 6)
                 {
-                    Console.WriteLine("La ficabrica contiene: ", fabrica1.contadorPuertas(arrayPuertas)," puertas");
+                    Console.WriteLine("La ficabrica contiene: " + fabrica1.contadorPuertas(arrayPuertas) + " puertas");
                 }
                 else if (opcion == 7)
                 {
@@ -284,7 +290,7 @@ namespace Ejercicio_aberturas
             for (int i = 0; i < (arrayPuertas.Count); i++)
             {
                 Puerta x = arrayPuertas[i];
-                if (id != x.id)
+                if (id == x.id)
                 {
 
                     verificacion = true;
@@ -293,7 +299,8 @@ namespace Ejercicio_aberturas
                
                 else
                 {
-                    verificacion =false;
+                    verificacion = false;
+
                 }
 
             }

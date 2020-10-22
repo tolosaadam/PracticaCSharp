@@ -11,3 +11,16 @@ C:\Users\Adam\source\repos\AvisosDiarios\AvisosDiarios\obj\Debug\netcoreapp3.1\A
 C:\Users\Adam\source\repos\AvisosDiarios\AvisosDiarios\obj\Debug\netcoreapp3.1\AvisosDiarios.dll
 C:\Users\Adam\source\repos\AvisosDiarios\AvisosDiarios\obj\Debug\netcoreapp3.1\AvisosDiarios.pdb
 C:\Users\Adam\source\repos\AvisosDiarios\AvisosDiarios\obj\Debug\netcoreapp3.1\AvisosDiarios.genruntimeconfig.cache
+C:\Users\AdamTolosa\Source\Repos\tolosaadam\PracticaCSharp\Ejercicios propios\AvisosDiarios\AvisosDiarios\bin\Debug\netcoreapp3.1\AvisosDiarios.exe
+C:\Users\AdamTolosa\Source\Repos\tolosaadam\PracticaCSharp\Ejercicios propios\AvisosDiarios\AvisosDiarios\bin\Debug\netcoreapp3.1\AvisosDiarios.deps.json
+C:\Users\AdamTolosa\Source\Repos\tolosaadam\PracticaCSharp\Ejercicios propios\AvisosDiarios\AvisosDiarios\bin\Debug\netcoreapp3.1\AvisosDiarios.runtimeconfig.json
+C:\Users\AdamTolosa\Source\Repos\tolosaadam\PracticaCSharp\Ejercicios propios\AvisosDiarios\AvisosDiarios\bin\Debug\netcoreapp3.1\AvisosDiarios.runtimeconfig.dev.json
+C:\Users\AdamTolosa\Source\Repos\tolosaadam\PracticaCSharp\Ejercicios propios\AvisosDiarios\AvisosDiarios\bin\Debug\netcoreapp3.1\AvisosDiarios.dll
+C:\Users\AdamTolosa\Source\Repos\tolosaadam\PracticaCSharp\Ejercicios propios\AvisosDiarios\AvisosDiarios\bin\Debug\netcoreapp3.1\AvisosDiarios.pdb
+C:\Users\AdamTolosa\Source\Repos\tolosaadam\PracticaCSharp\Ejercicios propios\AvisosDiarios\AvisosDiarios\obj\Debug\netcoreapp3.1\AvisosDiarios.csprojAssemblyReference.cache
+C:\Users\AdamTolosa\Source\Repos\tolosaadam\PracticaCSharp\Ejercicios propios\AvisosDiarios\AvisosDiarios\obj\Debug\netcoreapp3.1\AvisosDiarios.AssemblyInfoInputs.cache
+C:\Users\AdamTolosa\Source\Repos\tolosaadam\PracticaCSharp\Ejercicios propios\AvisosDiarios\AvisosDiarios\obj\Debug\netcoreapp3.1\AvisosDiarios.AssemblyInfo.cs
+C:\Users\AdamTolosa\Source\Repos\tolosaadam\PracticaCSharp\Ejercicios propios\AvisosDiarios\AvisosDiarios\obj\Debug\netcoreapp3.1\AvisosDiarios.csproj.CoreCompileInputs.cache
+C:\Users\AdamTolosa\Source\Repos\tolosaadam\PracticaCSharp\Ejercicios propios\AvisosDiarios\AvisosDiarios\obj\Debug\netcoreapp3.1\AvisosDiarios.dll
+C:\Users\AdamTolosa\Source\Repos\tolosaadam\PracticaCSharp\Ejercicios propios\AvisosDiarios\AvisosDiarios\obj\Debug\netcoreapp3.1\AvisosDiarios.pdb
+C:\Users\AdamTolosa\Source\Repos\tolosaadam\PracticaCSharp\Ejercicios propios\AvisosDiarios\AvisosDiarios\obj\Debug\netcoreapp3.1\AvisosDiarios.genruntimeconfig.cache
